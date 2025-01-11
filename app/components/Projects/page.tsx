@@ -13,27 +13,32 @@ export default function Projects() {
 
   const projects = [
     {
-      title: "AI-Powered Code Assistant",
-      description: "An intelligent VS Code extension that provides contextual code suggestions and autocompletions using advanced machine learning models. Features include real-time syntax analysis, code optimization suggestions, and integration with popular frameworks.",
-      tech: ["TypeScript", "Python", "TensorFlow", "VS Code API"],
+      title: "Health Care Website [February 2024 - April 2024]  ",
+      description: `"• Developed a website which helps people to contact with their doctor from their home and book appointment in advance.
+ • People can store their diagnosed report on site for their and doctor’s convenience. • Doctors will be available to give free suggestions to the patient. 
+"`,
+      tech: ["HTML", "CSS", "Bootstrap", "Node.js" ,"Mongo DB "],
       image: "/placeholder.svg",
       github: "https://github.com/johndoe/ai-code-assistant",
       live: "https://marketplace.visualstudio.com/items?itemName=example",
     },
     {
-      title: "Blockchain Voting System",
-      description: "A decentralized e-voting platform built on Ethereum that ensures transparent and tamper-proof elections. Implements zero-knowledge proofs for voter privacy and smart contracts for automated vote tallying.",
-      tech: ["Solidity", "React", "Web3.js", "Node.js"],
+      title: "Notes Web App [June 2024 – July 2024] ",
+      description: `"Developed a website where people can store their important notes. There they can create, Delete and edit their notes. 
+• This is a simple, responsive, user-friendly, and informative website. 
+• The website project scored 87% and was very effective.
+"`,
+      tech: ["MERN Stack"],
       image: "/placeholder.svg",
       github: "https://github.com/johndoe/blockchain-voting",
       live: "https://blockchain-voting.example.com",
     },
     {
-      title: "Real-time Collaboration Tool",
-      description: "A collaborative coding environment that enables multiple developers to work on the same codebase simultaneously. Features include real-time code synchronization, integrated chat, and automatic conflict resolution.",
-      tech: ["Next.js", "Socket.io", "PostgreSQL", "Docker"],
+      title: "Personal Portfolio",
+      description: "A personal portfolio showing my skills and experience",
+      tech: ["Next.js", "Tailwind CSS", ],
       image: "/placeholder.svg",
-      github: "https://github.com/johndoe/collab-tool",
+      github: "https://github.com/Shashank5239",
       live: "https://collab.example.com",
     }
   ]

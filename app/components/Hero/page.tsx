@@ -16,7 +16,7 @@ export default function Hero() {
           <div className="relative">
             <Image
               src="/images/pic.jpeg"
-              alt="John Doe"
+              alt="Shashank Kumar"
               width={200}
               height={200}
               className="rounded-full border-4 border-white/10 shadow-lg backdrop-blur-sm transform transition duration-500 
@@ -26,7 +26,7 @@ export default function Hero() {
             </div>
         </div>
         <h1 className="text-5xl font-bold text-white mb-4 animate-fade-in-up bg-clip-text text-transparent bg-gradient-to-r from-white to-white/80">
-          John Doe
+        Shashank Kumar
         </h1>
         <div className="h-16 mb-6">
           <TypeAnimation
@@ -46,7 +46,7 @@ export default function Hero() {
         </div>
         <div className="flex justify-center gap-6 mb-8">
           <a 
-            href="https://github.com/johndoe" 
+            href="https://github.com/Shashank5239" 
             target="_blank" 
             rel="noopener noreferrer"
             className="group relative"
@@ -57,7 +57,7 @@ export default function Hero() {
             </div>
           </a>
           <a 
-            href="https://linkedin.com/in/johndoe" 
+            href="https://www.linkedin.com/in/shashank-kumar2232/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="group relative"

@@ -80,25 +80,25 @@ export default function ContactForm() {
             <div className="space-y-4">
               <div className="flex items-center hover:text-sky-400">
                 <Mail className="w-6 h-6 mr-4 text-white" />
-                <span>john.doe@example.com</span>
+                <span>shashankkumar2232@gmail.com</span>
               </div>
               <div className="flex items-center hover:text-sky-400">
                 <Phone className="w-6 h-6 mr-4 text-white" />
-                <span>+1 (123) 456-7890</span>
+                <span>+91 96934-44480</span>
               </div>
-              <div className="flex items-center hover:text-sky-400">
+              {/* <div className="flex items-center hover:text-sky-400">
                 <MapPin className="w-6 h-6 mr-4 text-white" />
                 <span>San Francisco, CA</span>
-              </div>
+              </div> */}
             </div>
-            <div className="mt-8 flex space-x-4">
+            {/* <div className="mt-8 flex space-x-4">
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-400 transition-colors">
                 <Linkedin size={24} />
               </a>
               <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-400 transition-colors">
                 <Github size={24} />
               </a>
-            </div>
+            </div> */}
           </motion.div>
           <motion.div
             className="lg:w-1/2"

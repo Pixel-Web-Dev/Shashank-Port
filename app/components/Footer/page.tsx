@@ -24,17 +24,17 @@ export default function Footer() {
           </div>
           <div className="w-full md:w-1/4 mb-6 md:mb-0">
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
-            <p className="text-gray-400">Email: john@example.com</p>
-            <p className="text-gray-400">Phone: (123) 456-7890</p>
+            <p className="text-gray-400">Email: shashankkumar2232@gmail.com</p>
+            <p className="text-gray-400">Phone: 9693444480</p>
           </div>
           <div className="w-full md:w-1/4">
             <h4 className="text-lg font-semibold mb-4">Follow Me</h4>
             <div className="flex space-x-8">
               &nbsp;&nbsp;&nbsp;
-              <a href="https://github.com/johndoe" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-accent-color transform transition duration-300 hover:scale-110">
+              <a href="https://github.com/Shashank5239" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-accent-color transform transition duration-300 hover:scale-110">
                 <Github size={28} />
               </a>
-              <a href="https://linkedin.com/in/johndoe" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transform transition duration-300 hover:scale-110">
+              <a href="https://www.linkedin.com/in/shashank-kumar2232/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transform transition duration-300 hover:scale-110">
                 <Linkedin size={28} />
               </a>
               <a href="https://twitter.com/johndoe" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transform transition duration-300 hover:scale-110">

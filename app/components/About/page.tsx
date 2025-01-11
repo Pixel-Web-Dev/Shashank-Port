@@ -10,20 +10,19 @@ export default function About() {
     {
       icon: <Code className="w-8 h-8 text-sky-400" />,
       title: "Technical Skills",
-      content: "Proficient in Python, JavaScript, and C++. Experienced with React, Node.js, and TensorFlow. Passionate about AI, machine learning, and blockchain technologies.",
-      skills: ['Python', 'JavaScript', 'C++', 'React', 'Node.js', 'TensorFlow', 'Git']
+      content: "Proficient in Python, JavaScript, and C++. Experienced with React, Node.js. Passionate about AI, machine learning, and blockchain technologies.",
+      skills: ['Python', 'JavaScript', 'C++', 'React', 'Node.js', 'Git']
     },
     {
       icon: <Book className="w-8 h-8 text-sky-400" />,
       title: "Education",
-      content: "Currently pursuing a B.S. in Computer Science at Tech University. Relevant coursework: Data Structures, Algorithms, Machine Learning, and Web Development.",
-      highlight: "GPA: 3.8/4.0"
+      content: "Currently pursuing a BTech in Computer Science at Lovely Professional University. Relevant coursework: Data Structures, and Web Development.",
+      highlight: "GPA: 7.8/10"
     },
     {
       icon: <Lightbulb className="w-8 h-8 text-sky-400" />,
-      title: "Interests & Goals",
-      content: "Fascinated by the potential of AI to solve real-world problems. Keen on developing sustainable tech solutions. Aspiring to contribute to open-source projects and mentor upcoming developers.",
-      extra: "In my free time, I enjoy participating in hackathons, reading sci-fi novels, and exploring new hiking trails."
+      title: "Soft Skills",
+      content: "Communication, Team Work, Leadership, Time management, Problem Solving, Critical Thinking"
     }
   ]
 

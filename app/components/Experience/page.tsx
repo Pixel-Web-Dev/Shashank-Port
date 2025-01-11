@@ -7,36 +7,40 @@ import { Card, CardContent } from "@/components/ui/card"
 export default function Experience() {
   const experienceData = [
     {
-      position: "Software Engineering Intern",
-      company: "TechCorp",
-      duration: "Summer 2023",
+      position: "Event Manager ",
+      company: "E-Cell, LPU",
+      duration: "Mar 2024 - Present",
+      location: "Office",
+      responsibilities: [
+       ` "•	Enhanced problem-solving skills by managing logistics and resolving on-the-spot issues during events.
+       •	Acquired skills in collaboration and teamwork while coordinating with multiple departments and volunteers.\•	Strengthened analytical skills by evaluating event success and deriving actionable insights for improvement.",`
+        
+      ]
+    },  
+    {
+      position: "AI Trainer ",
+      company: "Outlier",
+      duration: "Sep 2024 - Nov 2024",
       location: "Remote",
       responsibilities: [
-        "Developed and maintained RESTful APIs using Node.js and Express",
-        "Implemented new features for the company's main web application using React",
-        "Collaborated with the data science team to integrate machine learning models into the product"
+        `"•	Enhanced programming and debugging skills through hands-on AI projects and training sessions.
+•	Learned to customize AI models and algorithms to solve domain-specific problems.
+•	Learned how to assess training outcomes and adapt learning modules based on feedback.
+"`
+        
       ]
     },
     {
-      position: "Research Assistant",
-      company: "AI Lab, Tech University",
-      duration: "2022 - Present",
-      location: "Silicon Valley, CA",
+      position: "Freelance Web Developer and Designer ",
+      company: "PixelDev (Self-Started Freelance Initiative)",
+      duration: "Oct 2024 - Present",
+      location: "Remote",
       responsibilities: [
-        "Assisted in developing novel algorithms for natural language processing",
-        "Conducted literature reviews on the latest advancements in AI and machine learning",
-        "Co-authored a paper on efficient transformer models, currently under review for publication"
-      ]
-    },
-    {
-      position: "Web Development Project Lead",
-      company: "Student Innovation Center",
-      duration: "2021 - 2022",
-      location: "Tech University",
-      responsibilities: [
-        "Led a team of 5 students in developing a campus event management platform",
-        "Implemented agile methodologies to ensure timely delivery of project milestones",
-        "Presented the final product to university administration, resulting in campus-wide adoption"
+        `"•	Mastered web development technologies, including front-end and back-end frameworks.
+•	Built expertise in UI/UX design, ensuring responsive and user-centric web solutions.
+•	Developed problem-solving skills through troubleshooting and resolving real-world technical issues.
+",`
+        
       ]
     }
   ]
